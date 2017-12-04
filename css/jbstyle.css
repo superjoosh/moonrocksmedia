@@ -1,0 +1,160 @@
+/*
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Patua One', cursive;
+*/
+
+
+/* jumbotron stuff */
+
+
+.jumbotron {
+	/* background:  ; /* For browsers that do not support gradients */
+
+  	text-align: left;
+  	padding-left: 0;
+  	margin-left: 0;
+  	/*height: 50em; */
+}
+
+h1 {
+	font-weight: normal;
+}
+
+h2 {
+
+	font-size: 4em;
+
+}
+
+h4 {
+	font-size: 1.4em;
+	background-color: #E5E5E4;
+}
+
+h5, p {
+	font-size: 1.2em;
+}
+
+
+
+.greentext {
+	color: #26bfcf;
+	font-weight: bold;
+}
+
+
+.red {
+	background-color: red;
+}
+
+
+.deep {
+	position: relative;
+	min-height: 15em;
+}
+
+.scroller-content {
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+}
+
+
+.infinatebounce {
+  -webkit-animation-duration: 3s;
+  -webkit-animation-delay: 2.5s;
+  -webkit-animation-iteration-count: infinite;
+}
+
+.slideleftslow {
+	-webkit-animation-duration: 3s;
+  -webkit-animation-delay: 1s;
+}
+
+.fadeIn {
+
+	-webkit-animation-duration: 3s;
+  -webkit-animation-delay: 2s;
+
+}
+
+.glyphicon-menu-down {
+	font-size: 3em;
+}
+
+.goldbg {
+	background-color: #f2f2f2;  
+	min-height: 50em;
+}
+
+.lowerpadding {
+	padding-bottom: 5em;
+}
+
+#map {
+      width: auto;
+      height: 400px;
+     margin-left: none;
+    }
+
+.map-padding {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.padding {
+	padding-right: 0.3em;
+	padding-top: 10em;
+} 
+
+
+/* .small-video iframe {
+	max-height: auto;
+	margin-left: none;
+	margin-right: auto;
+} */
+
+.video-padding {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.height {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.table-height {
+	padding-top: 2em;
+	padding-bottom: 3em;
+}
+
+
+footer {
+	background-color: #26bfcf;
+	height: 5em;
+	padding-top: 1em;
+	margin-top: 5em;
+	min-width: 100%;
+	text-align:center;
+}
+
+ul {
+	width: 100%;
+}
+
+li {
+	display: inline-block;
+	padding-right: 1em;
+
+}
+
+li i {
+	color: #fff;
+	float: center;
+
+}
+
+
+    //6E602C
